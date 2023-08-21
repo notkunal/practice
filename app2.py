@@ -1,2 +1,2 @@
 def divide(a,b):
-    return float(a/b)
+    print("divisiion:: ",float(a/b))
