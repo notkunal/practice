@@ -1,1 +1,1 @@
-system me nahi reh paoge babuji lawda meraa bosdk
+this is my first commit repositry
